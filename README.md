@@ -15,7 +15,7 @@ The user will be asked for an object and it will be returned the index of that o
 
 **:pushpin:**
 `*StrConv(objectName, VbStrConv.ProperCase)* - converting the first letter of the word in uppercase`
-### Exercise #3
+### Exercise  #3
 You have been given an excel file which contains names and password expiry date. From the entire excel file you have to notify the user whose password is going to expire in the next 7 days. The dates are in different formats.
 
 :pushpin:
